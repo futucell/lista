@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 "CANAL1"
+http://free14-01.free-live.xyz:2052/free14/069/chunks.m3u8?nimblesessionid=68267&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMCAxMjo1ODoyNiBQTSZoYXNoX3ZhbHVlPVZpMXhBcStGeXM4ZHRyZm55WFF3eGc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD1mZDUwMzRlNTgwZThiYTk=
+#EXTINF:-1 "CANAL2"
+http://free12-01.free-live.xyz:2052/free12/005/chunks.m3u8?nimblesessionid=858744&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMCAyOjEyOjA4IFBNJmhhc2hfdmFsdWU9YkFrU3Avd283WWdUWFZxNnZNWGVhZz09JnZhbGlkbWludXRlcz01JmlkPWZkNTAzNGU1ODBlOGJhOQ==
+#EXTINF:-1 "CANAL3"
+http://free11-01.free-live.xyz:2052/free11/012/l_2434_3535532_589.ts?nimblesessionid=89659&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMCAzOjIxOjUwIFBNJmhhc2hfdmFsdWU9QkxxV05BeURtdDVFcVp1L2RjdjJtQT09JnZhbGlkbWludXRlcz01JmlkPWZkNTAzNGU1ODBlOGJhOQ==
+#EXTINF:-1 "CANAL4"
+
+#EXTINF:-1 "CANAL5"
+
+#EXTINF:-1 "CANAL6"
