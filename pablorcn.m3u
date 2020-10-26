@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1,0
+#EXTINF:-1,RCN
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZn8fW96lk9sqe82egeRZ6w)/dm/3/x7vyv0z/s/live-1.m3u8
-#EXTINF:-1,1
-http://free11-01.free-live.xyz:2052/free11/001/chunks.m3u8?nimblesessionid=205403&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMCAxMjo1MzozOCBBTSZoYXNoX3ZhbHVlPXE0MlZjdVQ4b1dPNzFyMEVQMWlCMmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
