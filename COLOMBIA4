@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="codigo de Pais en formato iso: Nombre del canal" group="grupo nombre" logo="url" tvg-country="Codigo de pais en formato iso", Nombr del Canal
+URL del Video
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZW_KGJNQ3gy2wJkwDYvnTwk)/dm/3/x7vyv0z/s/live-1.m3u8
