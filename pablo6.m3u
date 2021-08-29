@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,0
-http://free11-01.free-live.xyz:2052/free11/001/chunks.m3u8?nimblesessionid=90774&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMCAzOjU2OjI5IFBNJmhhc2hfdmFsdWU9ZHFWdnV5WWFScGJjUnVFb0NheStUUT09JnZhbGlkbWludXRlcz01JmlkPWZkNTAzNGU1ODBlOGJhOQ==
-#EXTINF:-1,1
-http://free12-01.free-live.xyz:2052/free12/005/chunks.m3u8?nimblesessionid=858744&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMCAyOjEyOjA4IFBNJmhhc2hfdmFsdWU9YkFrU3Avd283WWdUWFZxNnZNWGVhZz09JnZhbGlkbWludXRlcz01JmlkPWZkNTAzNGU1ODBlOGJhOQ==
-#EXTINF:-1,2
-http://free11-01.free-live.xyz:2052/free11/012/l_2434_3535532_589.ts?nimblesessionid=89659&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMCAzOjIxOjUwIFBNJmhhc2hfdmFsdWU9QkxxV05BeURtdDVFcVp1L2RjdjJtQT09JnZhbGlkbWludXRlcz01JmlkPWZkNTAzNGU1ODBlOGJhOQ==
-#EXTINF:-1,3
-http://free11-01.free-live.xyz:2052/free11/012/chunks.m3u8?nimblesessionid=89659&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMCAzOjIxOjUwIFBNJmhhc2hfdmFsdWU9QkxxV05BeURtdDVFcVp1L2RjdjJtQT09JnZhbGlkbWludXRlcz01JmlkPWZkNTAzNGU1ODBlOGJhOQ==
