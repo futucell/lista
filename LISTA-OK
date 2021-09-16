@@ -1,0 +1,342 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD2:Nat Geo Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTILES",LA_FHD2:Nat Geo Kids HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2453
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Nat Geo Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTILES",LA_HD_MEX2:Nat Geo Kids HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2452
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:NATGEO KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTILES",*ARG_HD:NATGEO KIDS
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2451
+#EXTINF:-1 tvg-id="EPG123.60295.schedulesdirect.org" tvg-name="LA_FHD2:Nick Jr HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_nick-jr_m.png" group-title="INFANTILES",LA_FHD2:Nick Jr HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2450
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="LA_HD_MEX2:Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="INFANTILES",LA_HD_MEX2:Nickelodeon HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2449
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="LA_HD_MEX2:Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="INFANTILES",LA_HD_MEX2:Nickelodeon
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2448
+#EXTINF:-1 tvg-id="EPG123.60295.schedulesdirect.org" tvg-name="LA_HD_MEX2:Nick Jr." tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="INFANTILES",LA_HD_MEX2:Nick Jr.
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2447
+#EXTINF:-1 tvg-id="EPG123.84412.schedulesdirect.org" tvg-name="LA_HD_MEX2:Nick 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="INFANTILES",LA_HD_MEX2:Nick 2 HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2446
+#EXTINF:-1 tvg-id="EPG123.60295.schedulesdirect.org" tvg-name="*ARG_HD:NICKELODEON JR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="INFANTILES",*ARG_HD:NICKELODEON JR
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2445
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="*ARG_HD:NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="INFANTILES",*ARG_HD:NICKELODEON
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2444
+#EXTINF:-1 tvg-id="disneyxd.es" tvg-name="LA_HD_MEX2:Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="INFANTILES",LA_HD_MEX2:Disney XD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2443
+#EXTINF:-1 tvg-id="amc.us" tvg-name="LA_HD_MEX2:Disney Jr." tvg-logo="https://cdn.mitvstatic.com/channels/cl_disney-jr_m.png" group-title="INFANTILES",LA_HD_MEX2:Disney Jr.
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2442
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INFANTILES",LA_HD_MEX2:Disney Channel
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2441
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="INFANTILES",*ARG_HD:DISNEY XD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2440
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:DISNEY JUNIOR" tvg-logo="https://www.disneylapresspack.com/storage/posts/1528144571_Disney%20Junior.PNG" group-title="INFANTILES",*ARG_HD:DISNEY JUNIOR
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2439
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:DISNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INFANTILES",*ARG_HD:DISNEY
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2438
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="INFANTILES",*ARG_HD:TOONCAST
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2437
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:CARTOON NETWORK" tvg-logo="https://img2.freepng.es/20180317/iyq/kisspng-cartoon-network-logo-television-channel-cartoon-photo-5aacf6820c4f69.2035475015212847380504.jpg" group-title="INFANTILES",*ARG_HD:CARTOON NETWORK
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2436
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:BOOMERANG" tvg-logo="https://img2.freepng.es/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="INFANTILES",*ARG_HD:BOOMERANG
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2435
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:BABY TV" tvg-logo="https://img2.freepng.es/20180509/xiq/kisspng-babytv-television-channel-fox-international-channe-5af2812a147a29.1003906815258422180839.jpg" group-title="INFANTILES",*ARG_HD:BABY TV
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2434
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTILES",LA_HD_MEX2:Discovery Kids
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2433
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="INFANTILES",LA_SD:NICKELODEON
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2432
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:NICK Jr" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="INFANTILES",LA_SD:NICK Jr
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2431
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:NAT GEO KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTILES",LA_SD:NAT GEO KIDS
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2430
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="INFANTILES",LA_SD:DISNEY XD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2429
+#EXTINF:-1 tvg-id="disneyjr.br" tvg-name="LA_SD:DISNEY JR" tvg-logo="https://www.disneylapresspack.com/storage/posts/1528144571_Disney%20Junior.PNG" group-title="INFANTILES",LA_SD:DISNEY JR
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2428
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_DISNEY CHANNEL_" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INFANTILES",LA_SD:SUR_DISNEY CHANNEL_
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2427
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INFANTILES",LA_SD:DISNEY CHANNEL
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2426
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:DISCOVERY_KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTILES",LA_SD:DISCOVERY_KIDS
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2425
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:CARTOON NETWORK" tvg-logo="https://img2.freepng.es/20180317/iyq/kisspng-cartoon-network-logo-television-channel-cartoon-photo-5aacf6820c4f69.2035475015212847380504.jpg" group-title="INFANTILES",LA_SD:CARTOON NETWORK
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2424
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:BOOMERANG" tvg-logo="https://img2.freepng.es/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="INFANTILES",LA_SD:BOOMERANG
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2423
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:BABY TV" tvg-logo="https://img2.freepng.es/20180509/xiq/kisspng-babytv-television-channel-fox-international-channe-5af2812a147a29.1003906815258422180839.jpg" group-title="INFANTILES",LA_SD:BABY TV
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2422
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD2:Nat Geo Kids MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTILES",LA_FHD2:Nat Geo Kids MX HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2421
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD2:Discovery Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTILES",LA_FHD2:Discovery Kids HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2420
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD2:Cartoon Network HD" tvg-logo="https://img2.freepng.es/20180317/iyq/kisspng-cartoon-network-logo-television-channel-cartoon-photo-5aacf6820c4f69.2035475015212847380504.jpg" group-title="INFANTILES",LA_FHD2:Cartoon Network HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2419
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="INFANTILES",LA_HD_MEX2:Tooncast
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2418
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/1280px-Nicktoons_UK_Logo_2010.svg.png" group-title="INFANTILES",LA_HD_MEX2:Nicktoons
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2417
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Cartoon Network HD" tvg-logo="https://img2.freepng.es/20180317/iyq/kisspng-cartoon-network-logo-television-channel-cartoon-photo-5aacf6820c4f69.2035475015212847380504.jpg" group-title="INFANTILES",LA_HD_MEX2:Cartoon Network HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2416
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="INFANTILES",LA_HD_MEX2:Boomerang HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2415
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Baby TV HD" tvg-logo="https://img2.freepng.es/20180509/xiq/kisspng-babytv-television-channel-fox-international-channe-5af2812a147a29.1003906815258422180839.jpg" group-title="INFANTILES",LA_HD_MEX2:Baby TV HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2414
+#EXTINF:-1 tvg-id="" tvg-name="HD_NICK_1920" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="INFANTILES",HD_NICK_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2413
+#EXTINF:-1 tvg-id="" tvg-name="HD_NICK2_1920" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="INFANTILES",HD_NICK2_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2412
+#EXTINF:-1 tvg-id="" tvg-name="HD_DISNEY XD_1920" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="INFANTILES",HD_DISNEY XD_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2411
+#EXTINF:-1 tvg-id="" tvg-name="HD_DISNEY CH_1920" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INFANTILES",HD_DISNEY CH_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2410
+#EXTINF:-1 tvg-id="" tvg-name="HD_CARTOON NETWORK_1920" tvg-logo="https://img2.freepng.es/20180317/iyq/kisspng-cartoon-network-logo-television-channel-cartoon-photo-5aacf6820c4f69.2035475015212847380504.jpg" group-title="INFANTILES",HD_CARTOON NETWORK_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2409
+#EXTINF:-1 tvg-id="" tvg-name="HD_BOOMERANG_1920" tvg-logo="https://img2.freepng.es/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="INFANTILES",HD_BOOMERANG_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2408
+#EXTINF:-1 tvg-id="" tvg-name="ES:MoviStar Disney HD" tvg-logo="https://www.nicepng.com/png/detail/472-4726704_movistar-disney-logo-de-canal-movistar-disney.png" group-title="INFANTILES",ES:MoviStar Disney HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2407
+#EXTINF:-1 tvg-id="" tvg-name="ES:Nick Junior" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="INFANTILES",ES:Nick Junior
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2406
+#EXTINF:-1 tvg-id="" tvg-name="ES:nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="INFANTILES",ES:nickelodeon HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2405
+#EXTINF:-1 tvg-id="" tvg-name="ES:DISNEY JR" tvg-logo="https://cdn.mitvstatic.com/channels/cl_disney-jr_m.png" group-title="INFANTILES",ES:DISNEY JR
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2404
+#EXTINF:-1 tvg-id="" tvg-name="ES:DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="INFANTILES",ES:DISNEY XD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2403
+#EXTINF:-1 tvg-id="" tvg-name="ES:DISNEY CHANEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INFANTILES",ES:DISNEY CHANEL HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2402
+#EXTINF:-1 tvg-id="" tvg-name="ES:BABY TV" tvg-logo="https://img2.freepng.es/20180509/xiq/kisspng-babytv-television-channel-fox-international-channe-5af2812a147a29.1003906815258422180839.jpg" group-title="INFANTILES",ES:BABY TV
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2401
+#EXTINF:-1 tvg-id="" tvg-name="ES:DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INFANTILES",ES:DISNEY CHANNEL HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2400
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:DirectvSP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",LA_FHD:DirectvSP 2
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2286
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:DirectvSP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",LA_FHD:DirectvSP 1
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2285
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:DirectvSPplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DEPORTES",LA_FHD:DirectvSPplus
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2284
+#EXTINF:-1 tvg-id="" tvg-name="LA_*HD:DIRECTV SPORTS ECUADOR" tvg-logo="https://dynamicimages.directvsports.com/images/rest/Photo/Photos/General/65/44/26/654426_Rect169_480.jpg" group-title="DEPORTES",LA_*HD:DIRECTV SPORTS ECUADOR
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2283
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:WIN SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",LA_FHD:WIN SP
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2281
+#EXTINF:-1 tvg-id="EPG123.47374.schedulesdirect.org" tvg-name="LA_HD_MEX2:Fox Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",LA_HD_MEX2:Fox Sports 3 HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2280
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD2:ESPN HD" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="DEPORTES",LA_FHD2:ESPN HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2279
+#EXTINF:-1 tvg-id="EPG123.79042.schedulesdirect.org" tvg-name="LA_FHD2:ESPN 3 HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="DEPORTES",LA_FHD2:ESPN 3 HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2278
+#EXTINF:-1 tvg-id="EPG123.96535.schedulesdirect.org" tvg-name="LA_FHD2:ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="DEPORTES",LA_FHD2:ESPN 2 HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2277
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Espn Plus HD" tvg-logo="http://3.bp.blogspot.com/-KCvjL7GDtcY/VhLno2ogxmI/AAAAAAAAAZ4/pZGZat4blSQ/s1600/espn_lam_plus_andino.png" group-title="DEPORTES",LA_HD_MEX2:Espn Plus HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2276
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Espn HD" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="DEPORTES",LA_HD_MEX2:Espn HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2275
+#EXTINF:-1 tvg-id="1" tvg-name="LA_HD_MEX2:Espn 3" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="DEPORTES",LA_HD_MEX2:Espn 3
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2274
+#EXTINF:-1 tvg-id="EPG123.96535.schedulesdirect.org" tvg-name="LA_HD_MEX2:Espn 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="DEPORTES",LA_HD_MEX2:Espn 2 HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2273
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",*ARG_HD:FOX SPORTS PREMIUM
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2272
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:DEPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_DeporTV.jpg" group-title="DEPORTES",*ARG_HD:DEPORTV
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2271
+#EXTINF:-1 tvg-id="" tvg-name="HD_FOX SPORT 3_1920" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",HD_FOX SPORT 3_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2270
+#EXTINF:-1 tvg-id="" tvg-name="HD_FOX SPORT 2_1920" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",HD_FOX SPORT 2_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2269
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="HD_FOX SPORT 1 COLOMBIA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES",HD_FOX SPORT 1 COLOMBIA 
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2268
+#EXTINF:-1 tvg-id="EPG123.79042.schedulesdirect.org" tvg-name="HD_ESPN 3_1920" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="DEPORTES",HD_ESPN 3_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2267
+#EXTINF:-1 tvg-id="EPG123.96535.schedulesdirect.org" tvg-name="HD_ESPN 2_1920" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="DEPORTES",HD_ESPN 2_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2266
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD2:Fox Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES",LA_FHD2:Fox Sports HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2264
+#EXTINF:-1 tvg-id="Canal Fox Sports" tvg-name="LA_HD_MEX2:Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES",LA_HD_MEX2:Fox Sports 1
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2263
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="LA_FHD2:Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/923px-Investigation_Discovery_Logo_2018.svg.png" group-title="CULTURALES",LA_FHD2:Investigation Discovery HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2147
+#EXTINF:-1 tvg-id="US: TRUTV EAST" tvg-name="LA_FHD2:History Channel HD" tvg-logo="https://pbs.twimg.com/profile_images/2244264032/images_400x400.jpg" group-title="CULTURALES",LA_FHD2:History Channel HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2146
+#EXTINF:-1 tvg-id="homeandhealth.uk" tvg-name="LA_FHD2:Home & Health HD" tvg-logo="http://4.bp.blogspot.com/-iUUfd22Gido/VZWpIYAk_hI/AAAAAAAAAGU/w--PhH25VGw/s1600/_0040_discovery_hh.png" group-title="CULTURALES",LA_FHD2:Home & Health HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2145
+#EXTINF:-1 tvg-id="EPG123.96307.schedulesdirect.org" tvg-name="LA_FHD2:Discovery Channel HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.svg_.png" group-title="CULTURALES",LA_FHD2:Discovery Channel HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2144
+#EXTINF:-1 tvg-id="Canal National Geographic (España)" tvg-name="LA_HD_MEX2:National Geographic" tvg-logo="https://cosmonerd.com.br/wp-content/uploads/2017/09/national-geographic-programa%C3%A7%C3%A3o-post-cosmonerd.png" group-title="CULTURALES",LA_HD_MEX2:National Geographic
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2143
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="LA_HD_MEX2:Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="CULTURALES",LA_HD_MEX2:Investigation Discovery HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2142
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="LA_HD_MEX2:Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="CULTURALES",LA_HD_MEX2:Investigation Discovery
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2141
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:History HD" tvg-logo="http://2.bp.blogspot.com/-60_2QlhRsZ0/T5OQWxGaAdI/AAAAAAAAALc/E8xzDqiKEfc/s1600/history_logo.jpg" group-title="CULTURALES",LA_HD_MEX2:History HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2140
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="http://1.bp.blogspot.com/-2Z5cfzdPNo0/VC2xPF57xrI/AAAAAAAAjdM/A0bSUumh7Oc/s1600/logo_foodnetwork.png" group-title="CULTURALES",Food Network HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2139
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Europa Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Europaeuropa.png" group-title="CULTURALES",LA_HD_MEX2:Europa Europa
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2138
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:El Gourmet HD" tvg-logo="https://yt3.ggpht.com/-c-wQeiO9r1U/AAAAAAAAAAI/AAAAAAAAAAA/ecnEavOEjAM/s900-c-k-no/photo.jpg" group-title="CULTURALES",LA_HD_MEX2:El Gourmet HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2137
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CULTURALES",LA_HD_MEX2:Discovery World HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2136
+#EXTINF:-1 tvg-id="discturbo.br" tvg-name="LA_HD_MEX2:Discovery Turbo HD" tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN_400x400.png" group-title="CULTURALES",LA_HD_MEX2:Discovery Turbo HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2135
+#EXTINF:-1 tvg-id="disctheater.br" tvg-name="LA_HD_MEX2:Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURALES",LA_HD_MEX2:Discovery Theater HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2134
+#EXTINF:-1 tvg-id="natgeo.br" tvg-name="HD_NAT GEO_1920" tvg-logo="http://cosmonerd.com.br/wp-content/uploads/2017/09/national-geographic-programa%C3%A7%C3%A3o-post-cosmonerd.png" group-title="CULTURALES",HD_NAT GEO_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2133
+#EXTINF:-1 tvg-id="US: TEENNICK" tvg-name="HD_HISTORY_1920" tvg-logo="http://2.bp.blogspot.com/-60_2QlhRsZ0/T5OQWxGaAdI/AAAAAAAAALc/E8xzDqiKEfc/s1600/history_logo.jpg" group-title="CULTURALES",HD_HISTORY_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2132
+#EXTINF:-1 tvg-id="" tvg-name="HD_DISCOVERY WORLD_1920" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CULTURALES",HD_DISCOVERY WORLD_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2131
+#EXTINF:-1 tvg-id="disctheater.br" tvg-name="HD_DISCOVERY THEATER_1920" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURALES",HD_DISCOVERY THEATER_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2130
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="HD_DISCOVERY ID_1920" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/923px-Investigation_Discovery_Logo_2018.svg.png" group-title="CULTURALES",HD_DISCOVERY ID_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2129
+#EXTINF:-1 tvg-id="BR: Discovery Civilization" tvg-name="HD_DISCOVERY CIVILIZATION_1920" tvg-logo="http://img3.wikia.nocookie.net/__cb20110127062351/logopedia/images/9/9b/Discovery_Civilization_2011.png" group-title="CULTURALES",HD_DISCOVERY CIVILIZATION_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2128
+#EXTINF:-1 tvg-id="" tvg-name="HD_ANIMAL PLANET_1920" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURALES",HD_ANIMAL PLANET_1920
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2127
+#EXTINF:-1 tvg-id="" tvg-name="ES:NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="CULTURALES",ES:NAT GEO WILD HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2126
+#EXTINF:-1 tvg-id="" tvg-name="ES:VIAJAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canal_viajar.PNG" group-title="CULTURALES",ES:VIAJAR HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2125
+#EXTINF:-1 tvg-id="" tvg-name="ES:Discovery Channel HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.svg_.png" group-title="CULTURALES",ES:Discovery Channel HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2124
+#EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-name="ES:CRIME AND INVESTIGATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Crime_and_Investigation_logo.png/160px-Crime_and_Investigation_logo.png" group-title="CULTURALES",ES:CRIME AND INVESTIGATION
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2123
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES:HISTORIA" tvg-logo="http://2.bp.blogspot.com/-_IQkt879ckY/UOCpwOb3-JI/AAAAAAAABwk/gZ5ia1AhMQ4/s1600/canal%2Bde%2Bhistoria.png" group-title="CULTURALES",ES:HISTORIA
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2122
+#EXTINF:-1 tvg-id="US: TEENNICK" tvg-name="ES:NATIONAL GEO WILD HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="CULTURALES",ES:NATIONAL GEO WILD HD HEVC
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/2121
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Fox Sports 3 HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Fox Sports 3 HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/981
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Fox Movies HD" tvg-logo="" group-title="CINE Y SERIES",LA_HD_MEX2:Fox Movies HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/980
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD_MEX:BITME" tvg-logo="https://bolavip.com/__export/1562876739177/sites/bolavip/img/2019/07/11/bitme_crop1562876738670.jpg_1693159006.jpg" group-title="MEXICO",LA_FHD_MEX:BITME
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/979
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Canal de las Estrellas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO",LA_HD_MEX2:Canal de las Estrellas HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/978
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:VH1 HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:VH1 HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/977
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:MTV Live HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:MTV Live HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/976
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:MTV Hits" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:MTV Hits
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/975
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Comedy Central HD" tvg-logo="" group-title="CINE Y SERIES",LA_HD_MEX2:Comedy Central HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/974
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Nat Geo Wild HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Nat Geo Wild HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/973
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Paramount Channel HD" tvg-logo="" group-title="CINE Y SERIES",LA_HD_MEX2:Paramount Channel HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/972
+#EXTINF:-1 tvg-id="EPG123.11097.schedulesdirect.org" tvg-name="LA_HD_MEX2:SyFy HD" tvg-logo="https://i.pinimg.com/originals/52/2a/90/522a90b200135b31f86bcdf809ce2de9.jpg" group-title="CINE Y SERIES",LA_HD_MEX2:SyFy HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/971
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Studio Universal HD B2" tvg-logo="" group-title="CINE Y SERIES",LA_HD_MEX2:Studio Universal HD B2
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/970
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Studio Universal HD" tvg-logo="" group-title="CINE Y SERIES",LA_HD_MEX2:Studio Universal HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/969
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Nat Geo Kids HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Nat Geo Kids HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/968
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Nickelodeon HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Nickelodeon HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/967
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Nickelodeon" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Nickelodeon
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/966
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Nick Jr." tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Nick Jr.
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/965
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Nick 2 HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Nick 2 HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/964
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Disney XD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Disney XD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/963
+#EXTINF:-1 tvg-id="US: TEENNICK" tvg-name="LA_HD_MEX2:Disney Jr." tvg-logo="https://elbayabuyiba.files.wordpress.com/2014/08/logo-disney-junior.jpg" group-title="MEXICO",LA_HD_MEX2:Disney Jr.
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/962
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Disney Channel" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Disney Channel
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/961
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Espn Plus HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Espn Plus HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/960
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Espn HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Espn HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/959
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Espn 3" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Espn 3
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/958
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Sony Channel HD" tvg-logo="" group-title="CINE Y SERIES",LA_HD_MEX2:Sony Channel HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/957
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Discovery Science" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Discovery Science
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/956
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Fox Sports 1" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Fox Sports 1
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/955
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Animal Planet HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Animal Planet HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/954
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:TNT HD" tvg-logo="" group-title="CINE Y SERIES",LA_HD_MEX2:TNT HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/953
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="CINE Y SERIES",STAR CHANNEL
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/952
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Discovery Civilization" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Discovery Civilization
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/951
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" group-title="CINE Y SERIES",LA_HD_MEX2:Golden
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/950
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:TLC HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:TLC HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/949
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Discovery Kids" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Discovery Kids
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/948
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Discovery H&H HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Discovery H&H HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/947
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Discovery Channel HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Discovery Channel HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/946
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Telenovelas" tvg-logo="" group-title="ELLA Y HOGAR",LA_HD_MEX2:Telenovelas
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/945
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Espn U HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Espn U HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/944
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Fox Sports 2 HD" tvg-logo="" group-title="MEXICO",LA_HD_MEX2:Fox Sports 2 HD
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES:MOVISTARr GOLF FHD" tvg-logo="https://i.pinimg.com/564x/3e/26/83/3e26839d185a83e0f4b1ba2a49272056.jpg" group-title="FHD",ES:MOVISTARr GOLF FHD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4068
+#EXTINF:-1 tvg-id="discovery.channel.us.eastern.us" tvg-name="LA_FHD2:DISCOVERY CHANNELHD" tvg-logo="https://www.eluniversal.com.co/binrepository/800x344/0c0/0d0/none/13704/MJKX/discovery1_2230120_20191005210242.jpg" group-title="FHD",LA_FHD2:DISCOVERY CHANNELHD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4069
+#EXTINF:-1 tvg-id="dischealth.br" tvg-name="LA_FHD2:DISCOVERY HOME AND HEALTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1280px-H%26h_Logo.svg.png" group-title="FHD",LA_FHD2:DISCOVERY HOME AND HEALTH HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4070
+#EXTINF:-1 tvg-id="EPG123.44028.schedulesdirect.org" tvg-name="LA_FHD2:FOX CLASSICSFox  HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics_m.png" group-title="FHD",LA_FHD2:FOX CLASSICSFox  HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4071
+#EXTINF:-1 tvg-id="" tvg-name="STAR COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1200px-Star_Comedy_2020.svg.png" group-title="FHD",STAR COMEDY
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4072
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="LA_FHD2:FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="FHD",LA_FHD2:FOX SPORTS 2 HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4073
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD2:FOX SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="FHD",LA_FHD2:FOX SPORTS 3 HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4074
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD2:NAT GEO KIDSHD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_nat-geo-kids_m.png" group-title="FHD",LA_FHD2:NAT GEO KIDSHD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4075
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD2:TBS HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tbs-veryfunny_m.png" group-title="FHD",LA_FHD2:TBS HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4076
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="FHD",LA_FHD:DIRECTV SPORTS
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4077
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:DIRECTV SPORTS 2" tvg-logo="https://alcymedia.com/wp-content/uploads/2017/08/directvsports2tv.png" group-title="FHD",LA_FHD:DIRECTV SPORTS 2
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4078
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:DIRECTV PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="FHD",LA_FHD:DIRECTV PLUS
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4079
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="FHD",LA_FHD:WIN SPORTS
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4080
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Telemundo Chicago HD" tvg-logo="https://image.roku.com/developer_channels/prod/f2d61d17cc59f38edc4d9df0f86557960d8e4e24ebea9705960ef9ff1dd4b28a.png" group-title="FHD",LA_FHD:Telemundo Chicago HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4081
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Univision Dallas HD" tvg-logo="https://st1.uvnimg.com/dims4/default/c374888/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fe9%2F37%2Ffd3d739d43719dbc7dfce0817f46%2Fdesktop-univision-23-miami-298x168.jpg" group-title="FHD",LA_FHD:Univision Dallas HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/4082
+#EXTINF:-1 tvg-id="" tvg-name="SD:HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE Y SERIES",SD:HBO 2
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/19258
+#EXTINF:-1 tvg-id="" tvg-name="SD:HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE Y SERIES",SD:HBO FAMILY
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/19259
+#EXTINF:-1 tvg-id="" tvg-name="SD:HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE Y SERIES",SD:HBO PLUS
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/19260
+#EXTINF:-1 tvg-id="" tvg-name="SD:HBO SIGNATURE" tvg-logo="" group-title="CINE Y SERIES",SD:HBO SIGNATURE
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/19261
+#EXTINF:-1 tvg-id="" tvg-name="LA_:HBO Pop HD" tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hbopopcolor.png.187d7f94027c73008845963b243409c6.png" group-title="CINE Y SERIES",LA_:HBO Pop HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/19262
+#EXTINF:-1 tvg-id="" tvg-name="LA_:HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE Y SERIES",LA_:HBO 2 HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/19263
+#EXTINF:-1 tvg-id="" tvg-name="LA_:HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE Y SERIES",LA_:HBO Family HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/19264
+#EXTINF:-1 tvg-id="" tvg-name="LA_:HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINE Y SERIES",LA_:HBO Signature HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/19265
+#EXTINF:-1 tvg-id="" tvg-name="LA_:HBO Xtreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINE Y SERIES",LA_:HBO Xtreme HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/19266
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE Y SERIES",HBO 2 HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/19267
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE Y SERIES",HBO Family HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/19268
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINE Y SERIES",HBO Xtreme HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/19269
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/09/HBO-Logotipo-1980-presente.jpg" group-title="CINE Y SERIES",HBO HD
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/19270
+#EXTINF:-1 tvg-id="" tvg-name="Caracol television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_canal_caracol.jpg" group-title="COLOMBIA",Caracol television
+http://redcoliptv.com:8090/servidor1/cW2THbPXIm/31733
