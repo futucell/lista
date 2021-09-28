@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="https://i.ytimg.com/vi/HivPwc0IWXc/hqdefault.jpg" group-title="TV",RCN HD
+http://201.184.110.186:25461/usuario1/usuario1/1
+#EXTINF:-1 tvg-id="" tvg-name="History  HD" tvg-logo="https://pbs.twimg.com/profile_images/2244264032/images_400x400.jpg" group-title="TV",History  HD
+http://201.184.110.186:25461/usuario1/usuario1/2
+#EXTINF:-1 tvg-id="" tvg-name="DirectvSPplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="TV",DirectvSPplus
+http://201.184.110.186:25461/usuario1/usuario1/3
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="TV",Discovery Channel HD
+http://201.184.110.186:25461/usuario1/usuario1/4
+#EXTINF:-1 tvg-id="" tvg-name="WIN SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="TV",WIN SP
+http://201.184.110.186:25461/usuario1/usuario1/9
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="TV",Discovery Science
+http://201.184.110.186:25461/usuario1/usuario1/10
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="" group-title="TV",Space HD
+http://201.184.110.186:25461/usuario1/usuario1/11
