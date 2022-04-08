@@ -1,0 +1,92 @@
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal 1 (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_(Colombia)_-_2017_logo.svg/783px-Channel_1_(Colombia)_-_2017_logo.svg.png" group-title="Colombia TV",CO: Canal 1 (MOVIL)
+http://live.geoiptv.org:8880/live/72273289/98574605/284650.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal 1 SD" tvg-logo="http://tvstar.cc:8880/chimg/9553377252.png" group-title="Colombia TV",CO: Canal 1 SD
+http://live.geoiptv.org:8880/live/72273289/98574605/284651.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal 1 HD" tvg-logo="https://360radio.com.co/wp-content/uploads/2017/08/CanalUno.png" group-title="Colombia TV",CO: Canal 1 HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284652.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol SD" tvg-logo="http://tvstar.cc:8880/chimg/3841821959.png" group-title="Colombia TV",CO: Caracol SD
+http://live.geoiptv.org:8880/live/72273289/98574605/284654.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol HD" tvg-logo="http://tvstar.cc:8880/chimg/7750396424.png" group-title="Colombia TV",CO: Caracol HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284655.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol Full HD" tvg-logo="http://tvstar.cc:8880/chimg/1379127284.png" group-title="Colombia TV",CO: Caracol Full HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284656.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol Int HD" tvg-logo="http://tvstar.cc:8880/chimg/4373578137.png" group-title="Colombia TV",CO: Caracol Int HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284657.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN HD" tvg-logo="http://logos-download.com/wp-content/uploads/2017/02/RCN_logo.png" group-title="Colombia TV",CO: RCN HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284660.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Full HD" tvg-logo="http://logos-download.com/wp-content/uploads/2017/02/RCN_logo.png" group-title="Colombia TV",CO: RCN Full HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284661.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Nuestra Tele Int. SD" tvg-logo="http://tvstar.cc:8880/chimg/5885489029.png" group-title="Colombia TV",CO: RCN Nuestra Tele Int. SD
+http://live.geoiptv.org:8880/live/72273289/98574605/284662.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Nuestra Tele Int. FHD" tvg-logo="http://tvstar.cc:8880/chimg/4083009790.png" group-title="Colombia TV",CO: RCN Nuestra Tele Int. FHD
+http://live.geoiptv.org:8880/live/72273289/98574605/284663.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Novelas SD" tvg-logo="http://tvstar.cc:8880/chimg/2926751686.png" group-title="Colombia TV",CO: RCN Novelas SD
+http://live.geoiptv.org:8880/live/72273289/98574605/284666.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: TeleAntioquia (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Teleantioquia_logo.png/1200px-Teleantioquia_logo.png" group-title="Colombia TV",CO: TeleAntioquia (MOVIL)
+http://live.geoiptv.org:8880/live/72273289/98574605/284667.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telecafe (MOVIL)" tvg-logo="http://tvstar.cc:8880/chimg/9153200682.png" group-title="Colombia TV",CO: Telecafe (MOVIL)
+http://live.geoiptv.org:8880/live/72273289/98574605/284669.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telemedellin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Telemedellin.svg/1200px-Telemedellin.svg.png" group-title="Colombia TV",CO: Telemedellin
+http://live.geoiptv.org:8880/live/72273289/98574605/284671.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telecaribe (MOVIL)" tvg-logo="http://tvstar.cc:8880/chimg/9819885379.png" group-title="Colombia TV",CO: Telecaribe (MOVIL)
+http://live.geoiptv.org:8880/live/72273289/98574605/284672.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telecaribe HD" tvg-logo="http://tvstar.cc:8880/chimg/4785072489.png" group-title="Colombia TV",CO: Telecaribe HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284673.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Capital HD" tvg-logo="http://tvstar.cc:8880/chimg/2101929810.png" group-title="Colombia TV",CO: Canal Capital HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284674.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Suram TV HD" tvg-logo="http://tvstar.cc:8880/chimg/7267184667.png" group-title="Colombia TV",CO: Suram TV HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284677.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: NTN24 SD" tvg-logo="http://tvstar.cc:8880/chimg/4256217663.png" group-title="Colombia TV",CO: NTN24 SD
+http://live.geoiptv.org:8880/live/72273289/98574605/284678.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: NTN24 HD" tvg-logo="http://tvstar.cc:8880/chimg/6805331702.png" group-title="Colombia TV",CO: NTN24 HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284679.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Pasiones HD" tvg-logo="http://tvstar.cc:8880/chimg/1556318028.png" group-title="Colombia TV",CO: Pasiones HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284681.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Pasiones Full HD" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Siemens-Logo.png" group-title="Colombia TV",CO: Pasiones Full HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284682.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Cable Noticias FHD" tvg-logo="http://tvstar.cc:8880/chimg/3629805036.png" group-title="Colombia TV",CO: Cable Noticias FHD
+http://live.geoiptv.org:8880/live/72273289/98574605/284683.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Institucional" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/5900f47c32f3c_CanalInstitucional.thumb.png.03105388b1ac11054813dad1a9b229ac.png" group-title="Colombia TV",CO: Canal Institucional
+http://live.geoiptv.org:8880/live/72273289/98574605/284684.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Cantinazo HD" tvg-logo="http://tvstar.cc:8880/chimg/2993908721.png" group-title="Colombia TV",CO: Cantinazo HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284685.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: City Tv (MOVIL)" tvg-logo="http://tvstar.cc:8880/chimg/2370933532.png" group-title="Colombia TV",CO: City Tv (MOVIL)
+http://live.geoiptv.org:8880/live/72273289/98574605/284686.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: El Tiempo" tvg-logo="http://www.vectorsland.com/imgd/l37906-el-tiempo-logo-84432.png" group-title="Colombia TV",CO: El Tiempo
+http://live.geoiptv.org:8880/live/72273289/98574605/284688.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Señal Colombia SD" tvg-logo="" group-title="Colombia TV",CO: Señal Colombia SD
+http://live.geoiptv.org:8880/live/72273289/98574605/284690.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: TV Agro SD" tvg-logo="http://tvstar.cc:8880/chimg/8761718392.png" group-title="Colombia TV",CO: TV Agro SD
+http://live.geoiptv.org:8880/live/72273289/98574605/284691.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: TV Agro HD" tvg-logo="http://tvstar.cc:8880/chimg/5355555084.png" group-title="Colombia TV",CO: TV Agro HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284692.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telepacifico (MOVIL)" tvg-logo="http://tvstar.cc:8880/chimg/4550008996.png" group-title="Colombia TV",CO: Telepacifico (MOVIL)
+http://live.geoiptv.org:8880/live/72273289/98574605/284693.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telepacifico HD" tvg-logo="http://tvstar.cc:8880/chimg/1453093148.png" group-title="Colombia TV",CO: Telepacifico HD
+http://live.geoiptv.org:8880/live/72273289/98574605/284694.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Teleisla SD" tvg-logo="http://tvstar.cc:8880/chimg/5929740330.png" group-title="Colombia TV",CO: Teleisla SD
+http://live.geoiptv.org:8880/live/72273289/98574605/284698.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Mundo +" tvg-logo="http://tvstar.cc:8880/chimg/8082345379.png" group-title="Colombia TV",CO: Canal Mundo +
+http://live.geoiptv.org:8880/live/72273289/98574605/284699.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: ATN Televisión" tvg-logo="http://tvstar.cc:8880/chimg/9886146568.png" group-title="Colombia TV",CO: ATN Televisión
+http://live.geoiptv.org:8880/live/72273289/98574605/284700.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Trece (MOVIL)" tvg-logo="https://www.freepnglogos.com/uploads/mobile-phone-logo-png-1.png" group-title="Colombia TV",CO: Trece (MOVIL)
+http://live.geoiptv.org:8880/live/72273289/98574605/284701.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: FOX SPORTS 1" tvg-logo="http://tvstar.cc:8880/chimg/7800616496.png" group-title="Colombia TV",CL: FOX SPORTS 1
+http://live.geoiptv.org:8880/live/72273289/98574605/319890.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Tele Caribe HD" tvg-logo="http://tvstar.cc:8880/chimg/3962815833.png" group-title="Colombia TV",CO: Tele Caribe HD
+http://live.geoiptv.org:8880/live/72273289/98574605/319892.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: CALI TV" tvg-logo="http://tvstar.cc:8880/chimg/7360946879.png" group-title="Colombia TV",CO: CALI TV
+http://live.geoiptv.org:8880/live/72273289/98574605/319896.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: CANAL TRO HD" tvg-logo="http://tvstar.cc:8880/chimg/6865463481.png" group-title="Colombia TV",CO: CANAL TRO HD
+http://live.geoiptv.org:8880/live/72273289/98574605/319900.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: CARACOL HD *^" tvg-logo="http://tvstar.cc:8880/chimg/5032941491.png" group-title="Colombia TV",CO: CARACOL HD *^
+http://live.geoiptv.org:8880/live/72273289/98574605/319919.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: DIRECTV SPORTS PLUS" tvg-logo="http://tvstar.cc:8880/chimg/2984011588.png" group-title="Colombia TV",CO: DIRECTV SPORTS PLUS
+http://live.geoiptv.org:8880/live/72273289/98574605/319923.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: FOX SPORTS 3 FHD" tvg-logo="http://tvstar.cc:8880/chimg/7611633852.png" group-title="Colombia TV",CO: FOX SPORTS 3 FHD
+http://live.geoiptv.org:8880/live/72273289/98574605/319924.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: HOLA TV HD" tvg-logo="http://tvstar.cc:8880/chimg/2251948607.png" group-title="Colombia TV",CO: HOLA TV HD
+http://live.geoiptv.org:8880/live/72273289/98574605/319932.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: EL GOURMET HD" tvg-logo="http://tvstar.cc:8880/chimg/7791971975.png" group-title="Colombia TV",CO: EL GOURMET HD
